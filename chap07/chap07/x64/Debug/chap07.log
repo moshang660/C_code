@@ -1,0 +1,26 @@
+﻿  7-1text.c
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): message : 请考虑在格式字符串中使用“%zd”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): message : 请考虑在格式字符串中使用“%lld”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): message : 请考虑在格式字符串中使用“%Id”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): message : 请考虑在格式字符串中使用“%I64d”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): message : 请考虑在格式字符串中使用“%lld”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): message : 请考虑在格式字符串中使用“%Id”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(5,12): message : 请考虑在格式字符串中使用“%I64d”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(6,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(6,12): message : 请考虑在格式字符串中使用“%zd”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(6,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(6,12): message : 请考虑在格式字符串中使用“%lld”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(6,12): message : 请考虑在格式字符串中使用“%Id”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(6,12): message : 请考虑在格式字符串中使用“%I64d”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(6,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(6,12): message : 请考虑在格式字符串中使用“%zd”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(7,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(7,12): message : 请考虑在格式字符串中使用“%zd”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(7,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(7,12): message : 请考虑在格式字符串中使用“%zd”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(7,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+D:\class\C_codeByLsr\chap07\chap07\7-1text.c(7,12): message : 请考虑在格式字符串中使用“%zd”
+  chap07.vcxproj -> D:\class\C_codeByLsr\chap07\x64\Debug\chap07.exe
